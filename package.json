@@ -1,6 +1,6 @@
 {
   "name": "@atemiz/wavejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wave file processing library.",
   "license": "MIT",
   "author": "Ahmet Temiz",
