@@ -1,4 +1,4 @@
 import WaveFile from './wave-file'
-import Wave from './wave'
+import Wave, { AudioFormat } from './wave'
 
-export { WaveFile, Wave }
+export { WaveFile, Wave, AudioFormat }
